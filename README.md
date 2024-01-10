@@ -1,6 +1,6 @@
 ### blackflame007
 
-Self taught Software Engineer who likes to build solutions to tough problems. Make custom tools and workflows to create more performant, cost effective, streamlined software solutions.
+Self taught Software Engineer who likes to build solutions to tough problems. Make custom tools and workflows to create more performant, cost effective and streamlined software solutions.
 
 <!--
 **blackflame007/blackflame007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
