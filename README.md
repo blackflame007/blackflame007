@@ -2,17 +2,18 @@
 
 Self taught Software Engineer who likes to build solutions to tough problems. Make custom tools and workflows to create more performant, cost effective and streamlined software solutions.
 
-<!--
-**blackflame007/blackflame007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- WALLET-LINKING-BEGIN
+{
+  "lastUpdated": "2025-06-03T03:22:39.014Z",
+  "wallets": [
+    {
+      "chain": "ethereum",
+      "address": "0x5d6122E59527C6acaC8E325D890511701Bb5F671"
+    },
+    {
+      "chain": "solana",
+      "address": "GeQZFuQKGSVKEzEnXhga42jdeNGFYjgohtfSkmQzDpKU"
+    }
+  ]
+}
+WALLET-LINKING-END -->
